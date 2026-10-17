@@ -1,0 +1,12 @@
+SIS_ANALISEEDUC - Sistema de Fluxo Escolar e Busca Ativa
+Repositorio de origem: https://github.com/marcoalexandreti/SIS_ANALISEEDUC
+
+Licenca aplicavel ao codigo original: Licenca de Uso Nao Comercial do
+SIS_ANALISEEDUC, versao 1.0, conforme LICENSE.md.
+
+Preserve os avisos de autoria e direitos autorais existentes no codigo.
+Identifique as alteracoes e seus respectivos autores ao redistribuir.
+
+Brasoes, marcas, logotipos institucionais e dados pessoais nao integram a
+autorizacao de uso do codigo. Componentes de terceiros conservam suas
+respectivas licencas.
